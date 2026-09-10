@@ -1,20 +1,16 @@
 ﻿# 基本信息
 
-技术/论文标题：StealthBench: 衡量自主攻击性安全智能体的操作隐蔽性
-
-作者/团队：Ads Dawson、Adrian Wood，来自 dreadnode。dreadnode 是一家专注安全智能体 AI 基础设施的公司，GitHub 上有 agent-lens 115 star、Ares 安全运营平台 73 star 等项目。团队背景与安全智能体评测方向高度契合
-
-发表刊物/来源：arXiv
-
-发布时间：2026年7月
-
-地址：https://arxiv.org/abs/2607.26314v1  https://github.com/GangGreenTemperTatum/stealthbench
-
-类型：技术趋势、Paper、开源项目
-
-标签：安全智能体评测、OPSEC、LLM 评审团、基准测试、AI for Security
-
-技术成熟度：研究阶段，论文配套开源仓库，约 660 行 Python 评测框架
+- 技术/论文标题：StealthBench: 衡量自主攻击性安全智能体的操作隐蔽性
+- 作者/团队：Ads Dawson、Adrian Wood，来自 dreadnode。dreadnode 是一家专注安全智能体 AI 基础设施的公司，GitHub 上有 agent-lens 115 star、Ares 安全运营平台 73 star 等项目。团队背景与安全智能体评测方向高度契合
+- 发表刊物/来源：arXiv
+- 发布时间：2026年7月
+- 地址：https://arxiv.org/abs/2607.26314v1  https://github.com/GangGreenTemperTatum/stealthbench
+- 类型：
+  - [x] 技术趋势
+  - [x] Paper
+  - [x] 开源项目
+- 标签：安全智能体评测、OPSEC、LLM 评审团、基准测试、AI for Security
+- 技术成熟度：研究阶段，论文配套开源仓库，约 660 行 Python 评测框架
 
 # 一句话总结
 

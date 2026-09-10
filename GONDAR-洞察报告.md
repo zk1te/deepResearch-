@@ -1,22 +1,16 @@
-﻿# 基本信息
+# 基本信息
 
-技术/论文标题：GONDAR / atlantis-java: Contextualizing Sink Knowledge for Java Vulnerability Discovery
-
-作者/团队：Fabian Fleischer、Cen Zhang、Joonun Jang、Jeongin Cho、Meng Xu、Taesoo Kim。Taesoo Kim 是 Georgia Tech 知名安全学者，团队是 DARPA AI 网络挑战赛 AIxCC 的参赛队伍 Team Atlanta，早期版本助力拿下第一名
-
-发表刊物/来源：IEEE S&P 2026，arXiv
-
-发布时间：2026年4月
-
-地址：https://arxiv.org/abs/2604.01645v3  https://github.com/Team-Atlanta/atlantis-java
-
-- 技术趋势
-- Paper
-- 开源项目
-
-标签：Java 漏洞挖掘、LLM 代理、模糊测试、Sink 知识、覆盖率引导、DARPA AIxCC
-
-技术成熟度：工业部署阶段，已集成到 Linux 基金会 OpenSSF 的 OSS-CRS 项目，兼容 OSS-Fuzz 基础设施，已发现零日漏洞
+- 技术/论文标题：GONDAR / atlantis-java: Contextualizing Sink Knowledge for Java Vulnerability Discovery
+- 作者/团队：Fabian Fleischer、Cen Zhang、Joonun Jang、Jeongin Cho、Meng Xu、Taesoo Kim。Taesoo Kim 是 Georgia Tech 知名安全学者，团队是 DARPA AI 网络挑战赛 AIxCC 的参赛队伍 Team Atlanta，早期版本助力拿下第一名
+- 发表刊物/来源：IEEE S&P 2026，arXiv
+- 发布时间：2026年4月
+- 地址：https://arxiv.org/abs/2604.01645v3  https://github.com/Team-Atlanta/atlantis-java
+- 类型：
+  - [ ] 技术趋势
+  - [x] Paper
+  - [ ] 开源项目
+- 标签：Java 漏洞挖掘、LLM 代理、模糊测试、Sink 知识、覆盖率引导、DARPA AIxCC
+- 技术成熟度：工业部署阶段，已集成到 Linux 基金会 OpenSSF 的 OSS-CRS 项目，兼容 OSS-Fuzz 基础设施，已发现零日漏洞
 
 # 一句话总结
 

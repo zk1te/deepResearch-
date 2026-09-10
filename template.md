@@ -11,12 +11,15 @@
 - 发布时间：
 
 - 地址：
+  
+  - [SEC-bench Pro: Can Language Models Solve Long-Horizon Software Security Tasks?](https://arxiv.org/abs/2605.26548v2)
+  
+  - [GitHub - SEC-bench/SEC-bench-Pro · GitHub](https://github.com/SEC-bench/SEC-bench-Pro)
 
 - 类型：
   
   * [ ] 技术趋势
-  
-  - [ ] Paper
+  - [x] Paper
   
   - [ ] 开源项目
 

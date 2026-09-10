@@ -1,20 +1,16 @@
 ﻿# 基本信息
 
-技术/论文标题：BreachWeave: Manager/Solver/Observer 三角色多 Agent 协作的 CTF 自动化框架
-
-作者/团队：M-SEC 社区，中文安全社区组织。GitHub 上有 ez-ai-agent 158 star、ez-xbow-platform-mcp 94 star、wafkiller 51 star 等多个安全工具项目。BreachWeave 获腾讯云黑客松智能渗透测试挑战赛一等奖，排名 1/613，竞赛成绩是权威性的有力支撑
-
-发表刊物/来源：GitHub 开源项目
-
-发布时间：2026年9月
-
-地址：https://github.com/m-sec-org/BreachWeave
-
-类型：开源项目
-
-标签：多 Agent 协作、CTF 自动化、渗透测试、黑板架构、旁路监督
-
-技术成熟度：可用阶段，代码完整开源，Web UI 和 CLI 双入口，Web UI 服务已验证可启动
+- 技术/论文标题：BreachWeave: Manager/Solver/Observer 三角色多 Agent 协作的 CTF 自动化框架
+- 作者/团队：M-SEC 社区，中文安全社区组织。GitHub 上有 ez-ai-agent 158 star、ez-xbow-platform-mcp 94 star、wafkiller 51 star 等多个安全工具项目。BreachWeave 获腾讯云黑客松智能渗透测试挑战赛一等奖，排名 1/613，竞赛成绩是权威性的有力支撑
+- 发表刊物/来源：GitHub 开源项目
+- 发布时间：2026年9月
+- 地址：https://github.com/m-sec-org/BreachWeave
+- 类型：
+  - [ ] 技术趋势
+  - [ ] Paper
+  - [x] 开源项目
+- 标签：多 Agent 协作、CTF 自动化、渗透测试、黑板架构、旁路监督
+- 技术成熟度：可用阶段，代码完整开源，Web UI 和 CLI 双入口，Web UI 服务已验证可启动
 
 # 一句话总结
 

@@ -1,20 +1,16 @@
 ﻿# 基本信息
 
-技术/论文标题：Symbolon: Learning Transformations for Symbolic Execution
-
-作者/团队：Jie Zhu、Penghui Li、Zhongxuan Li、Chihao Shen、Ziyang Li、Yizheng Chen、Kexin Pei。来自芝加哥大学 CIRRUS Lab，实验室方向是代码智能与可信安全软件系统，另有 ExploitGym、Locus 等安全评测项目。Kexin Pei 在符号执行与程序分析领域有较高知名度
-
-发表刊物/来源：arXiv
-
-发布时间：2026年6月
-
-地址：https://arxiv.org/abs/2606.29108v2  https://github.com/cirrus-uchicago/Symbolon
-
-类型：技术趋势、Paper、开源项目
-
-标签：符号执行、LLM Agent、代码转换、KLEE、覆盖率优化
-
-技术成熟度：研究阶段，论文配套开源仓库，含 Nix 构建环境和完整评估脚本
+- 技术/论文标题：Symbolon: Learning Transformations for Symbolic Execution
+- 作者/团队：Jie Zhu、Penghui Li、Zhongxuan Li、Chihao Shen、Ziyang Li、Yizheng Chen、Kexin Pei。来自芝加哥大学 CIRRUS Lab，实验室方向是代码智能与可信安全软件系统，另有 ExploitGym、Locus 等安全评测项目。Kexin Pei 在符号执行与程序分析领域有较高知名度
+- 发表刊物/来源：arXiv
+- 发布时间：2026年6月
+- 地址：https://arxiv.org/abs/2606.29108v2  https://github.com/cirrus-uchicago/Symbolon
+- 类型：
+  - [x] 技术趋势
+  - [x] Paper
+  - [x] 开源项目
+- 标签：符号执行、LLM Agent、代码转换、KLEE、覆盖率优化
+- 技术成熟度：研究阶段，论文配套开源仓库，含 Nix 构建环境和完整评估脚本
 
 # 一句话总结
 

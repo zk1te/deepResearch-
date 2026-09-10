@@ -1,20 +1,16 @@
 ﻿# 基本信息
 
-技术/论文标题：AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration
-
-作者/团队：Arastoo Zibaeirad（UNC Charlotte）、Marco Vieira（知名容错与安全研究学者）、Thomas Zimmermann（知名软件工程研究学者，微软研究院）。作者阵容跨软件工程和安全两个领域，但核心流水线代码未开源，仅开放评估工件
-
-发表刊物/来源：arXiv
-
-发布时间：2026年7月
-
-地址：https://arxiv.org/abs/2607.12058v1  https://github.com/Erroristotle/AutoTrace
-
-类型：技术趋势、Paper、开源项目
-
-标签：漏洞触发定位、LLM 智能体、代码属性图 CPG、跨过程分析、AI for Security
-
-技术成熟度：研究阶段，论文配套了 artifact 评估仓库，但流水线本体代码没有开源
+- 技术/论文标题：AutoTrace: From Patches to Triggers via Agentic Interprocedural Exploration
+- 作者/团队：Arastoo Zibaeirad（UNC Charlotte）、Marco Vieira（知名容错与安全研究学者）、Thomas Zimmermann（知名软件工程研究学者，微软研究院）。作者阵容跨软件工程和安全两个领域，但核心流水线代码未开源，仅开放评估工件
+- 发表刊物/来源：arXiv
+- 发布时间：2026年7月
+- 地址：https://arxiv.org/abs/2607.12058v1  https://github.com/Erroristotle/AutoTrace
+- 类型：
+  - [x] 技术趋势
+  - [x] Paper
+  - [x] 开源项目
+- 标签：漏洞触发定位、LLM 智能体、代码属性图 CPG、跨过程分析、AI for Security
+- 技术成熟度：研究阶段，论文配套了 artifact 评估仓库，但流水线本体代码没有开源
 
 # 一句话总结
 
@@ -109,5 +105,4 @@ best_per_cve 的多级元组选优适合任何一个 GT 对应多个预测的定
 后续是否跟进：会跟进，主要关注两点，流水线本体是否会开源，以及 SinkTrace-Bench 在更多 LLM 上的评测扩展情况。
 
 下一步行动：在团队内部 AI for Sec 评估流程里引入 best_per_cve 选优和 patch-fallback 扣留机制，另外评估一下 SinkTrace-Bench 能不能用来做团队 LLM 安全能力评测。
-
 
